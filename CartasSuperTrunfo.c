@@ -6,7 +6,8 @@
 
 int main() {
   printf("Desafio Super Trunfo");
-  // Área para definição das variáveis para armazenar as propriedades das cidades
+  // Declaração das variáveis das Cartas
+  char estado1, estado2;
 
   // Área para entrada de dados
 
